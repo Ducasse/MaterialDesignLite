@@ -107,7 +107,7 @@ To open one, just do a
 ```Smalltalk
 ZnWorkspace openUrl: 'http://ws.stfx.eu/1JIZRQS7OI00'
 ```
-
+ 
 # Latest supported Dependencies
 
 - [Material Icons v3.0.1](https://github.com/google/material-design-icons/releases/tag/3.0.1)
